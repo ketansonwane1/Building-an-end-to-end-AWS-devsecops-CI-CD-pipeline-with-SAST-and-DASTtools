@@ -1,5 +1,5 @@
 
-# 🛠️ **End-to-End AWS DevSecOps CI/CD Pipeline with SAST & DAST Tools** 🔒
+# 🛠️ **Building End-To-End DevSecOps Pipeline** 🔒
 
 ## 🚀 **Project Overview**
 
